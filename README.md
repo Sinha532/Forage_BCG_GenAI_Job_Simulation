@@ -5,7 +5,7 @@ The first task in this simulation is regarding the data extraction task which is
 
 The Second task contains of builiding a simple rule based chatbot , which should take answers from the customers and answer their queries by traversing through our collected dataset.
 
-# Task 1: Data Extraction and Analysis
+# [Task 1: Data Extraction and Analysis](https://github.com/Sinha532/Forage_BCG_GenAI_Job_Simulation/blob/main/Task%201/BCG_GenAI_Task1.ipynb)
 This project performs a financial analysis of three major tech companies: Apple, Microsoft, and Tesla. Using the provided financial data, we calculate year-over-year growth rates for key metrics and analyze trends in profitability, assets, and liabilities.
 
 ### Data
