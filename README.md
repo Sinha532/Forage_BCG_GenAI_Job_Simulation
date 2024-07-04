@@ -33,7 +33,7 @@ For each company, we calculated the following growth metrics and profitability r
 - Pandas: For data manipulation and calculation of growth metrics.
 - Matplotlib & Seaborn: For data visualization.
 
-# Task 2: Developing an AI Driven Financial ChatBot Prototype
+# [Task 2: Developing an AI Driven Financial ChatBot Prototype](https://github.com/Sinha532/Forage_BCG_GenAI_Job_Simulation/tree/main/Task%202)
 
 ## Overview
 This project demonstrates the development of a simple rule-based chatbot using Python and Flask. The chatbot provides predefined responses to specific user inputs, showcasing the basics of conversational AI. The project is structured to be easily understandable and extendable.
